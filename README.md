@@ -1,6 +1,8 @@
 # Evil Clutches
+
 >Example of a simple game updated from [The Game Maker's Apprentice](http://www.apress.com/9781590596159) chapter2 source code to work in Gamemaker:Studio. 
 
+![screenshot](https://raw.githubusercontent.com/glls/Evil-Clutches.gmx/master/screenshot.png)
 
 You play a mother dragon who must rescue her hatchlings from an unpleasant band of demons that have kidnapped them. The band’s boss sends a stream of demons to destroy the dragon as the hatchlings make their escape. The mother can fend off the boss’s minions by shooting fireballs, but must be careful not to accidentally shoot the hatchlings!
 The arrow keys will move the dragon up and down and the spacebar will shoot fireballs.
