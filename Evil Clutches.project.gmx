@@ -20,6 +20,9 @@
     <background>background\background_cave</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\highscore_display.gml</script>
+  </scripts>
   <fonts name="fonts">
     <font>fonts\fnt_Game</font>
   </fonts>

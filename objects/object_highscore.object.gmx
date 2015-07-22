@@ -28,13 +28,7 @@
             <string>// if space is pressed go to game room
 if keyboard_check_pressed(vk_space) room_goto(rm_first); 
 
-draw_set_font(fnt_Game);
-draw_set_colour(c_white);
-draw_text(50, 50, "Hall of fame");
-draw_set_colour(c_black);
-draw_highscore(50, 100, room_width - 50, room_height - 100);
-draw_set_colour(c_white);
-draw_text(50, room_height - 50, "Press SPACE to play");
+highscore_display();
 
 </string>
           </argument>
